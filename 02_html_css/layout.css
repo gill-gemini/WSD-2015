@@ -1,0 +1,18 @@
+#content{
+  width:75%;
+}
+#aside{
+  width:20%;
+  float:right,
+}
+#footer{
+  text-align: center;
+}
+#header #navigation li{
+list-style-type: none;
+display:inline;
+padding: 15px;
+margin:15px;
+
+
+}
