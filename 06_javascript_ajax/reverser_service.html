@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head><script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+
+</head>
+  <body>
+
+
+        <form id="reverser">
+            <input id="toBeReversed" name="input" text>
+            <input type="submit" id="submitReverser">
+        </form>
+        <button id="clearInput">Clear Input</button>
+        <script type="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+        <script>
+
+
+        $(document).ready(function(){
+         "use strict";
+
+        var text={};
+        $("#reverser").submit(function(e){
+            e.preventDefault();
+          var val=document.getElementById("toBeReversed").value;
+          text.payload=b(val);
+          window.parent.postMessage(text,'*');
+
+
+        });
+
+        $("#clearInput").click(function(e){
+            e.preventDefault();
+          var val=document.getElementById("toBeReversed").value;
+          text.payload='INPUT CLEARED';
+            window.parent.postMessage(text,'*');
+            document.getElementById("toBeReversed").value="";
+
+
+        });
+
+        });
+        function b(val){
+          var str="";
+          for(var i=val.length-1;i>=0;i--){
+          str+=val[i];
+          }
+          return str;
+        }
+
+        </script>
+   </body>
+
+
+
+</html>
