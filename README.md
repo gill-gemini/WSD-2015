@@ -14,7 +14,9 @@ Django
 
 
 **Project**
+We are building a game store for online javascript games. Detail mandatory and optional requirments are mentioned on the below mentioned webpage.
 
+* https://docs.google.com/document/d/1SH_UOPFHu4_rxHER76oXGGMiqCSVuqbr03HQiChAYTw/pub
 
 Currently the project is running on heroku. Please check the following link. It will take some time.(refresh two/three times)
 * http://vast-escarpment-5866.herokuapp.com/
