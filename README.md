@@ -6,7 +6,7 @@ Currently I am working on a project with two other group members to create a web
 
 **Front End Technologies**
 
-Javascript, jquery , HTML , CSS
+Javascript, jquery , HTML , CSS , Bootstrap
 
 **Back End Technologies**
 
