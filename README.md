@@ -18,8 +18,8 @@ We are building a game store for online javascript games. I cannot publish the c
 
 Currently the project is running on heroku. Please check the following link. It will take some time.(refresh two/three times)
 * `http://vast-escarpment-5866.herokuapp.com/`
-* Username : Test  
-* Password : foobar
+* Username : `Test`  
+* Password : `foobar`
 
 
 Mandatory and optional requirments are mentioned on the below mentioned webpage.
