@@ -14,13 +14,18 @@ Django
 
 
 **Project : Game Store for online javascript games**
-We are building a game store for online javascript games.Mandatory and optional requirments are mentioned on the below mentioned webpage.
-
-* https://docs.google.com/document/d/1SH_UOPFHu4_rxHER76oXGGMiqCSVuqbr03HQiChAYTw/pub
+We are building a game store for online javascript games.
 
 Currently the project is running on heroku. Please check the following link. It will take some time.(refresh two/three times)
 * http://vast-escarpment-5866.herokuapp.com/
 * Username : Test  
 * Password : foobar
+
+
+Mandatory and optional requirments are mentioned on the below mentioned webpage.
+
+* https://docs.google.com/document/d/1SH_UOPFHu4_rxHER76oXGGMiqCSVuqbr03HQiChAYTw/pub
+
+
 
 If it doesnt works , probably we have shifted to another domain name.(heroku works like this)
