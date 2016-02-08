@@ -14,7 +14,7 @@ Django
 
 
 **Project : Game Store for online javascript games**
-We are building a game store for online javascript games.
+We are building a game store for online javascript games. I cannot publish the code for this project yet , since it is in progress at the moment.
 
 Currently the project is running on heroku. Please check the following link. It will take some time.(refresh two/three times)
 * http://vast-escarpment-5866.herokuapp.com/
