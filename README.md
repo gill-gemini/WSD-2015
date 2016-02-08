@@ -13,7 +13,7 @@ Javascript, jquery , HTML , CSS
 Django
 
 
-**Project**
+**Project : Game Store for online javascript games**
 We are building a game store for online javascript games. Detail mandatory and optional requirments are mentioned on the below mentioned webpage.
 
 * https://docs.google.com/document/d/1SH_UOPFHu4_rxHER76oXGGMiqCSVuqbr03HQiChAYTw/pub
