@@ -33,3 +33,13 @@ If it doesnt works , probably we have shifted to another domain name.(heroku wor
 Some Images of different pages from website
 
 ![profile](https://cloud.githubusercontent.com/assets/1822240/12903315/8d2c3108-cecf-11e5-90e6-c9183ce00fac.png)
+**Profile Webpage**
+
+![example](https://cloud.githubusercontent.com/assets/1822240/12903316/8f0e3d22-cecf-11e5-9ea9-e54ab7765282.png)
+**Example Game /High Scores**
+
+![register](https://cloud.githubusercontent.com/assets/1822240/12903317/90daa4ce-cecf-11e5-87fe-3e79409ef430.png)
+**Register page for the user**
+
+![games](https://cloud.githubusercontent.com/assets/1822240/12903319/9214abb4-cecf-11e5-87b8-f181be60663d.png)
+**Javascript Games on the website**
