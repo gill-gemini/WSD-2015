@@ -11,3 +11,11 @@ Javascript, jquery , HTML , CSS
 **Back End Technologies**
 
 Django
+
+
+**Project**
+
+Currently the project is running on heroku. Please check the following link.
+* http://vast-escarpment-5866.herokuapp.com/
+
+If it doesnt works , probably we have shifted to another domain name.(heroku works like this)
