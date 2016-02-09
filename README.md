@@ -22,7 +22,7 @@ Currently the project is running on heroku. Please check the following link. It 
 * Password : `foobar`
 
 
-Mandatory and optional requirments are mentioned on the below mentioned webpage.
+Mandatory and optional requirments by the teaching assistant are mentioned on the below mentioned webpage.
 
 * https://docs.google.com/document/d/1SH_UOPFHu4_rxHER76oXGGMiqCSVuqbr03HQiChAYTw/pub
 
